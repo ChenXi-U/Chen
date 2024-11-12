@@ -24,7 +24,7 @@ h2 {
 .content {
   position: absolute;
   width: 100%;
-  top: 48%;
+  top: 45%;
   transform: translate(0, -50%);
   text-align: center;
 }
